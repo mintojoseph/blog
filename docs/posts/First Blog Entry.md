@@ -1,4 +1,4 @@
-# Blog using Vitepress
+# Create a Blog using Vitepress
 
 I created this blog using [vitepress](https://vitepress.dev/). Vitepress is mostly used for docs. But I decided to create my blog using this as this seems pretty convenient.
 

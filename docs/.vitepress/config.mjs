@@ -3,9 +3,23 @@ import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar';
 
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default defineConfig(
+  {
+  head: [
+      [
+        'script',
+        { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-CDDRE89N1P' }
+      ],
+      [
+        'script',
+        {},
+        `window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-CDDRE89N1P');`
+      ]
+  ],
   base: '/vitepress-blog/',
-  // base: '/base/',
   title: " ",
   description: "Technology | Art",
   themeConfig: {
@@ -27,3 +41,5 @@ export default defineConfig({
     ]  
   }  
 })
+
+
