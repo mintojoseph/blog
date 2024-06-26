@@ -23,7 +23,7 @@ hero:
 features:
   - title: First Blog Entry
     details: Testing Vitepress
-    link: posts/First Blog Entry.md
+    link: ./posts/First Blog Entry.md
     # linkText: click here  
   # - title: Feature B
   #   details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
