@@ -1,8 +1,8 @@
 # Blog using Vitepress
 
-Created this blog using [vitepress](https://vitepress.dev/). Vitepress is mostly used for docs. But I decided to create my blog using this as this seems pretty convenient.
+I created this blog using [vitepress](https://vitepress.dev/). Vitepress is mostly used for docs. But I decided to create my blog using this as this seems pretty convenient.
 
-Other than stripping down several design element, I have only added an auto sidebar which would automatically populate the sidebar as I keep adding new posts.
+Other than stripping down many design elements, I have only added an auto sidebar which would automatically populate the sidebar as I keep adding new posts.
 
 ### Setup auto sidebar
 
@@ -20,6 +20,7 @@ import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar'; // [!code focus]
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: " ",
+  base: '/vitepress-blog/',
   description: "Technology | Art",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -40,3 +41,13 @@ export default defineConfig({
 ```
 
 Now the side bar updates as I post new files.
+
+
+### routing
+
+As I am hosting the blog under a subpath, I needed to specify a base path as well.
+
+
+```js
+  base: '/vitepress-blog/',
+```
