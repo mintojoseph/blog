@@ -1,0 +1,20 @@
+---
+layout: doc
+---
+
+```js
+export default {
+  data () {
+    return {
+      msg: 'Focused!' // [!code focus]
+    }
+  }
+}
+```
+
+```js
+test
+```
+
+[first Blog](first_post.md)
+--- 
