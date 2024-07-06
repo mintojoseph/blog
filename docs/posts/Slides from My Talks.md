@@ -2,7 +2,7 @@
 
 --
 
-#### [Linux Tracing: What Why and How?](../assets/slides/debug-tracing-debutsav.pdf)
+#### [Linux Tracing: What Why and How?](/docs/assets/slides/debug-tracing-debutsav.pdf)
 - **Date:** September, 2019
 - **Description:** Debutsav 2019, Goa
 
