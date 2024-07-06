@@ -1,2 +1,2 @@
-## https://mintos.dev/vitepress-blog/
+## https://mintos.dev/blog/
 Created using vitepress.
