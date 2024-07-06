@@ -1,4 +1,4 @@
-# Slides from my Talks
+# Slides from my talks
 
 --
 

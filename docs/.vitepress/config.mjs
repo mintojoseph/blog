@@ -19,7 +19,7 @@ export default defineConfig(
         gtag('config', 'G-CDDRE89N1P');`
       ]
   ],
-  base: '/vitepress-blog/',
+  base: '/blog/',
   title: " ",
   description: "Technology | Art",
   themeConfig: {

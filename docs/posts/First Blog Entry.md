@@ -20,7 +20,7 @@ import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar'; // [!code focus]
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: " ",
-  base: '/vitepress-blog/',
+  base: '/blog/',
   description: "Technology | Art",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -49,5 +49,5 @@ As I am hosting the blog under a subpath, I needed to specify a base path as wel
 
 
 ```js
-  base: '/vitepress-blog/',
+  base: '/blog/',
 ```
