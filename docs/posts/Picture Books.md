@@ -32,8 +32,7 @@ Here is a list of children's picture books I've published on Amazon.
     <a href="https://www.amazon.com/dp/B0DCW43W85" target="_blank">
       <img src="https://m.media-amazon.com/images/I/71SzF0APdLL._SL1413_.jpg" alt="From Rivers to Hills"  />
     </a>
-    <p><strong>From Rivers to Hills</strong></p>
-    <p>From Rivers to Hills” is a compilation of two stories based on the dreamy landscapes of India, where animals and nature take you through a magical journey</p>
+    <p>"From Rivers to Hills" is a compilation of two stories based on the dreamy landscapes of India, where animals and nature take you through a magical journey</p>
     <p><a href="https://www.amazon.com/dp/B0DCW43W85" target="_blank">Buy on Amazon.com</a></p>
     <p><a href="https://www.amazon.co.uk/dp/B0DCW43W85" target="_blank">Buy on Amazon.co.uk</a></p>
     <p><a href="https://www.amazon.de/dp/B0DCW43W85" target="_blank">Buy on Amazon.de</a></p>
@@ -52,8 +51,7 @@ Here is a list of children's picture books I've published on Amazon.
     <a href="https://www.amazon.com/dp/B0DD3GTQP3" target="_blank">
       <img src="https://m.media-amazon.com/images/I/71ajCnGEg7L._SL1413_.jpg" alt="Wandering Seeds" />
     </a>
-    <p><strong>Wandering Seeds</strong></p>
-    <p>Discover the fascinating journey of seeds as they travel far and wide to find new homes.</p>
+    <p>"Wandering seeds" helps you to discover the fascinating journey of seeds as they travel far and wide to find new homes.</p>
     <p><a href="https://www.amazon.com/dp/B0DD3GTQP3" target="_blank">Buy on Amazon.com</a></p>
     <p><a href="https://www.amazon.co.uk/dp/B0DD3GTQP3" target="_blank">Buy on Amazon.co.uk</a></p>
     <p><a href="https://www.amazon.de/dp/B0DD3GTQP3" target="_blank">Buy on Amazon.de</a></p>
