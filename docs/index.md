@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: Talks
       link: ./posts/Slides from My Talks.md
+    - theme: alt
+      text: Picture Books
+      link: ./posts/Picture Books.md      
     # - theme: alt
     #   text: Github
     #   link: https://github.com/mintojoseph
